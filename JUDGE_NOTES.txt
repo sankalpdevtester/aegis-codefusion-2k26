@@ -1,7 +1,7 @@
 AEGIS — CODEFUSION 2K26 JUDGE NOTES
 ====================================
 
-Project: AEGIS — Adaptive Emergency Geospatial Intelligence & Simulation
+Project: AEGIS — Autonomous Emergency Geospatial Intelligence & Simulation Software
 Team: X
 Lead: Sankalp Gupta
 Institution: Echelon Institute of Technology, Faridabad
