@@ -1,6 +1,6 @@
 # AEGIS
 
-Autonomous Emergency Geospatial Intelligence & Simulation Software— a map-first emergency digital twin and single-operator decision-support system for CodeFusion 2K26.
+Autonomous Emergency Geospatial Intelligence & Simulation Software — a map-first emergency digital twin and single-operator decision-support system for CodeFusion 2K26.
 
 AEGIS combines a slowly rotating and searchable 3D world view, source-labelled incident intelligence, deterministic hazard simulation at a selected world location or operating area, time-specific consequence layers, evacuation and resource planning, what-if comparison, reverse-cascade intervention ranking, recovery/re-entry screening, and decision receipts. The active targets are the responsive web command center and Windows desktop wrapper. The phone app is documentation-only for now.
 
